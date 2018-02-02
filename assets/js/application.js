@@ -1,7 +1,7 @@
 //sart with some universal variables
 
 var cartoonArray = [
-    "Archer", "Futurama", "Aqua Teen Hunger Force",
+    "Archer", "Futurama", "Aqua Teen",
     "Space Ghost", "GI Joe", "Thunder Cats", "Animaniacs"
   ];
 // my key and giphy address and limiter
